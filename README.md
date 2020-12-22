@@ -1,2 +1,2 @@
 # ufaz-parsec-site
-PARSEC Site built with Docusaurus
+PARSEC Site built with Hugo
